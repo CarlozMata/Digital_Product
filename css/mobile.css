@@ -1,0 +1,17 @@
+@media (max-width: 600px)
+{
+.products{
+  display: inherit; /*Pasa de horizontal a vertical*/
+  height: auto;
+  
+}
+.product{
+margin-top: auto;  
+}
+.main_section{
+  padding:4%;
+}
+.atajos, .menciones{
+  display: inherit;
+}
+}
